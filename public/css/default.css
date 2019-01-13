@@ -1,0 +1,31 @@
+#header {
+  padding: 20px;
+  background: gold;
+}
+
+#content {
+  background: #fff;
+  padding: 20px;
+}
+
+#footer {
+  background: green;
+  padding: 20px;
+}
+
+
+/* progress bar */
+#progress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#bar {
+  width: 1%;
+  height: 10px;
+  background-color: #ED6A5A;
+}
+
+#result{
+    display:none;
+}
